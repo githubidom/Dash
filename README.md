@@ -1,9 +1,15 @@
 # DashBoard
-#Features
-📊 #Interactive Data Visualization: Effortlessly visualize your data with dynamic charts and graphs.
-🚀#Real-time Updates: Stay informed with live data updates for timely decision-making.
-📁 #File Management: Streamlined upload, download, and file management for enhanced efficiency.
-🛠️ #Customizable Widgets: Tailor the dashboard to your unique needs through drag-and-drop widgets.
+
+# Features
+
+📊 # Interactive Data Visualization: Effortlessly visualize your data with dynamic charts and graphs.
+
+🚀# Real-time Updates: Stay informed with live data updates for timely decision-making.
+
+📁 # File Management: Streamlined upload, download, and file management for enhanced efficiency.
+
+🛠️ # Customizable Widgets: Tailor the dashboard to your unique needs through drag-and-drop widgets.
+
 
 
 1. #Install dependencies:
